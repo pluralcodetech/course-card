@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+/* Sass Template */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.software-section-head {
+  background-image: linear-gradient(to right, #0A143B, #3E3D89);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 20px 15px;
+}
+
+.software-section-head h2 {
+  font-family: "Nunito Sans", cursive;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 23px;
+  letter-spacing: 0.200000003px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.software-section-head p {
+  font-family: "Nunito Sans", cursive;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.200000003px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.software-section-body {
+  background-color: #0A0F23;
+  padding: 40px;
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.software-section-body img {
+  width: 10%;
+  border-radius: 8px;
+}
+
+.software-section-body p {
+  font-family: "Nunito Sans", cursive;
+  font-size: 14.5px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.200000003px;
+  text-align: center;
+  color: #D6D6D6;
+  margin-top: 15px;
+}
+
+.learn-software {
+  outline: none !important;
+  border: 0;
+  box-shadow: none !important;
+  color: #D6D6D6;
+  height: 35.5533485413px;
+  width: 179.2481384277px;
+  left: 52.8759765625px;
+  top: 421.8759765625px;
+  border-radius: 1.9751861095px;
+  padding: 5px, 16px, 5px, 16px;
+  font-family: "Nunito Sans", cursive;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 8px;
+  letter-spacing: 0em;
+  text-align: center;
+  background-image: linear-gradient(to right, #0A143B, #3E3D89);
+}
+
+.box {
+  height: 695px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.analytics-section-head {
+  background-image: linear-gradient(to right, #C5221F, #FF9889);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 20px 15px;
+}
+
+.analytics-section-head h2 {
+  font-family: "Nunito Sans", cursive;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 23px;
+  letter-spacing: 0.200000003px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.analytics-section-head p {
+  font-family: "Nunito Sans", cursive;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.200000003px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.analytics-section-body {
+  background-color: #0A0F23;
+  padding: 40px;
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.analytics-section-body img {
+  width: 10%;
+  border-radius: 8px;
+}
+
+.analytics-section-body p {
+  font-family: "Nunito Sans", cursive;
+  font-size: 14.5px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.200000003px;
+  text-align: center;
+  color: #D6D6D6;
+  margin-top: 15px;
+}
+
+.learn-data {
+  outline: none !important;
+  border: 0;
+  box-shadow: none !important;
+  color: #D6D6D6;
+  height: 35.5533485413px;
+  width: 179.2481384277px;
+  left: 52.8759765625px;
+  top: 421.8759765625px;
+  border-radius: 1.9751861095px;
+  padding: 5px, 16px, 5px, 16px;
+  font-family: "Nunito Sans", cursive;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 8px;
+  letter-spacing: 0em;
+  text-align: center;
+  background-image: linear-gradient(to right, #C5221F, #FF9889);
+}
+
+/*# sourceMappingURL=card.css.map */
