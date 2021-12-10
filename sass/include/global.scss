@@ -5,9 +5,15 @@
 }
 
 .box {
-    height: 695px;
     width: 100%;
     border-radius: 20px;
+    position: relative;
+}
+
+.software-section-image {
+    position: absolute;
+    top: 25%;
+    left: -9px;
 }
 
 .software-section-head, .analytics-section-head, .product-section-head {
@@ -100,3 +106,4 @@
 .learn-product {
     background-image: linear-gradient(to right, $gradient-pink-dark, $gradient-pink-light);
 }
+
